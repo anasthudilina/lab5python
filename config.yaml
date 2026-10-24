@@ -1,0 +1,9 @@
+input:
+  path: data/transactions.csv
+output:
+  path: output/transactions.json
+processing:
+  skip_invalid: true
+logging:
+  level: INFO
+  path: logs/application.log

@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+
+# Lab 5 runtime artifacts (не заливаємо результати запуску)
+logs/
+output/
+*.tmp
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+
+# Reports (якщо додаєш звіт, переконайся, що він не ігнорується, або додай виняток)
+*.pdf
+*.docx
+!report5.docx

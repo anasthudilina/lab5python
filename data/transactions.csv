@@ -1,0 +1,8 @@
+account_number,client,balance,operation,amount
+UA001,Alice,1000.0,deposit,500.0
+UA002,Bob,500.0,withdraw,200.0
+UA001,Alice,1500.0,withdraw,2000.0
+UA003,,100.0,deposit,50.0
+UA004,Charlie,100.0,invalid_op,50.0
+UA005,David,100.0,withdraw,-50.0
+UA006,Eve,100.0,deposit,100.0
