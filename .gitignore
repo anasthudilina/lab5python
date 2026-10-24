@@ -15,7 +15,3 @@ output/
 .idea/
 .DS_Store
 
-# Reports (якщо додаєш звіт, переконайся, що він не ігнорується, або додай виняток)
-*.pdf
-*.docx
-!report5.docx
